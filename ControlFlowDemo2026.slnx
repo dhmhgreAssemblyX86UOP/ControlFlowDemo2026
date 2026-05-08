@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ClassicForLoop/ClassicForLoop.vcxproj" />
+  <Project Path="COMPLEXConditionsIFStatement/COMPLEXConditionsIFStatement.vcxproj" />
+  <Project Path="COMPLEXIFESLEIFStatement/COMPLEXIFESLEIFStatement.vcxproj" />
+  <Project Path="IFELSEIFStatement/IFELSEIFStatement.vcxproj" />
+  <Project Path="IFELSEStatement/IFELSEStatement.vcxproj" />
+  <Project Path="IFStatement/IFStatement.vcxproj" />
+  <Project Path="WHILENESTEDINFOR/WHILENESTEDINFOR.vcxproj" />
+</Solution>
