@@ -3,11 +3,12 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ClassicForLoop/ClassicForLoop.vcxproj" />
-  <Project Path="COMPLEXConditionsIFStatement/COMPLEXConditionsIFStatement.vcxproj" />
-  <Project Path="COMPLEXIFESLEIFStatement/COMPLEXIFESLEIFStatement.vcxproj" />
-  <Project Path="IFELSEIFStatement/IFELSEIFStatement.vcxproj" />
-  <Project Path="IFELSEStatement/IFELSEStatement.vcxproj" />
-  <Project Path="IFStatement/IFStatement.vcxproj" />
-  <Project Path="WHILENESTEDINFOR/WHILENESTEDINFOR.vcxproj" />
+  <Project Path="BonusScoredValue/BonusScoredValue.vcxproj" Id="a62205a2-817b-4f82-934a-22f1d26b87c5" />
+  <Project Path="ClassicForLoop/ClassicForLoop.vcxproj" Id="5da3b8d3-19bc-48f7-a06a-6b8b532729c4" />
+  <Project Path="COMPLEXConditionsIFStatement/COMPLEXConditionsIFStatement.vcxproj" Id="43f5e049-67aa-4b46-b8e6-10d45e9a8898" />
+  <Project Path="COMPLEXIFESLEIFStatement/COMPLEXIFESLEIFStatement.vcxproj" Id="d987658a-3266-4795-b4ea-050e7a2c540e" />
+  <Project Path="IFELSEIFStatement/IFELSEIFStatement.vcxproj" Id="57978cc6-c3b3-4d4b-a28b-88f187346126" />
+  <Project Path="IFELSEStatement/IFELSEStatement.vcxproj" Id="68d315ac-67a7-47f7-b3ac-f09167c5f95b" />
+  <Project Path="IFStatement/IFStatement.vcxproj" Id="0265d6fd-ee20-44ee-9e5e-d52239ccbdfa" />
+  <Project Path="WHILENESTEDINFOR/WHILENESTEDINFOR.vcxproj" Id="194e2e46-9739-4340-bd4c-b50818b09ebf" />
 </Solution>
