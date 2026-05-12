@@ -3,7 +3,11 @@ Include Irvine32.inc
 
 ;int adjustValue(int x, int low, int high)
 ;{
-;    int result;
+
+;    int result; EAX
+;    low -> EBX
+;    high -> ECX
+;    x -> EDX
 ;
 ;    if (x < 0)
 ;    {
@@ -38,6 +42,7 @@ Include Irvine32.inc
 ;    return result;
 ;}
 ;
+
 ;int computeChallengeScore(int values[], int n, int low, int high, int stopValue)
 ;{
 ;    int i;	    ESI
